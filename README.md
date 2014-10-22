@@ -37,21 +37,25 @@ Tuesday: Callbacks
 Wednesday: Underscore.js
 
 Thursday: [ADVANCED] Closures + Module Pattern
+	  [BEGINNER] Codecademy JS or HTML/CSS
 
-###Links
-######[Presentation Slides](http://www.slides.com/biancagandolfo/intro-func)
-######[Presentation Videos](http://www.frontendmasteres.com/courses) (available January 2015)
-######[Exercises](http://www.github.com/bgando/functionalJS)
-######[Notes](https://docs.google.com/document/d/1-zH4ocVczSi28fX4HVWTooAOFTqQifo4X-vS-DU1nyY/edit?usp=sharing)
 
-######Follow-up Resources:
-[Scope + Closure](http://speakingjs.com/es5/ch16.html)
+<!--###Links-->
+<!--######[Presentation Slides](http://www.slides.com/biancagandolfo/intro-func)-->
+<!--######[Presentation Videos](http://www.frontendmasteres.com/courses) (available January 2015)-->
+<!--######[Exercises](http://www.github.com/bgando/functionalJS)-->
+<!--######[Notes](https://docs.google.com/document/d/1-zH4ocVczSi28fX4HVWTooAOFTqQifo4X-vS-DU1nyY/edit?usp=sharing)-->
+
+<!--######Follow-up Resources:-->
+<!--[Scope + Closure](http://speakingjs.com/es5/ch16.html)-->
 
 <!--#############################################################################################################-->
 
 ##[Week 3 - OOJS (Nov 3rd)](id:wk3)
 
 ###Topics/Schedule
+This is an advanced week. Beginners will finish Codecademy JS and HTML/CSS course this week. Intermediate will practice on Coderbyte.com.
+
 Monday: Keyword ‘this’
 
 Tuesday: Prototype Delegation + Object Decorator
@@ -59,14 +63,15 @@ Tuesday: Prototype Delegation + Object Decorator
 Wednesday: Class Patterns: Functional, Prototypal, Pseudoclassical
 
 Thursday: Superclass + Subclass
-###Links
-######[Udacity Videos](https://www.udacity.com/course/ud015)
-######[Exercises](http://www.github.com/bgando/efarmony-class-patterns)
-######[Notes](https://docs.google.com/document/d/1PtNoNH1OmhW1DsNDyJBtuIGzmgky_tb04HOK_FLPw5s/edit?usp=sharing)
-######Follow-up Resources:
-[Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
 
-[Keyword this](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
+<!--###Links-->
+<!--######[Udacity Videos](https://www.udacity.com/course/ud015)-->
+<!--######[Exercises](http://www.github.com/bgando/efarmony-class-patterns)-->
+<!--######[Notes](https://docs.google.com/document/d/1PtNoNH1OmhW1DsNDyJBtuIGzmgky_tb04HOK_FLPw5s/edit?usp=sharing)-->
+<!--######Follow-up Resources:-->
+<!--[Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)-->
+
+<!--[Keyword this](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)-->
 
 <!--#############################################################################################################-->
 
