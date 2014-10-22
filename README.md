@@ -21,17 +21,20 @@ Arrays:
 	
 Functions:
 [Eloquent JavaScript](http://eloquentjavascript.net/03_functions.html)
+
 <!--#############################################################################################################-->
-##[Week 2 - OOJS (Oct 27th)](id:wk2) 
+
+##[Week 2 - Functional JS (Oct 27th)](id:wk2) 
 
 ###Topics/Schedule
 Monday: Scope 
 
-Tuesday: Closures
+Tuesday: Callbacks
 
-Wednesday: Callbacks
+Wednesday: Underscore.js
 
-Thursday: Underscore.js
+Thursday: [ADVANCED]Closures + Module Pattern
+
 ###Links
 ######[Presentation Slides](www.slides.com/biancagandolfo/intro-func)
 ######[Presentation Videos](www.frontendmasteres.com/courses) (available January 2015)
@@ -41,7 +44,7 @@ Thursday: Underscore.js
 
 <!--#############################################################################################################-->
 
-##[Week 3 - Functional JS (Nov 3rd)](id:wk3)
+##[Week 3 - OOJS (Nov 3rd)](id:wk3)
 
 ###Topics/Schedule
 Monday: Keyword ‘this’
