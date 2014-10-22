@@ -29,13 +29,14 @@ Functions:
 ##[Week 2 - Functional JS (Oct 27th)](id:wk2) 
 
 ###Topics/Schedule
+
 Monday: Scope 
 
 Tuesday: Callbacks
 
 Wednesday: Underscore.js
 
-Thursday: [ADVANCED]Closures + Module Pattern
+Thursday: [ADVANCED] Closures + Module Pattern
 
 ###Links
 ######[Presentation Slides](http://www.slides.com/biancagandolfo/intro-func)
