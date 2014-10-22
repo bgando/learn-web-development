@@ -8,9 +8,11 @@ Wednesday: Nested Data Structures
 
 Thursday: Functions
 ####Links
-######[Presentation Slides](www.bit.ly/js102-slides1)
-######[Presentation Videos](www.frontendmasteres.com/courses) (available January 2015)
-######[Exercises](www.bit.ly/js102-exercises)
+######[Presentation Slides](http://www.bit.ly/js102-slides1)
+######[Presentation Videos](http://www.frontendmasteres.com/courses) (available January 2015)
+######[Exercises](http://www.bit.ly/js102-exercises)
+######[Notes](https://docs.google.com/document/d/10HCSojkWdU51fvIn2caxH-bH8QsU59yOYHpghqL7_0Q/edit?usp=sharing)
+
 ######Follow-up Resources:
 
 Objects:
@@ -36,9 +38,11 @@ Wednesday: Underscore.js
 Thursday: [ADVANCED]Closures + Module Pattern
 
 ###Links
-######[Presentation Slides](www.slides.com/biancagandolfo/intro-func)
-######[Presentation Videos](www.frontendmasteres.com/courses) (available January 2015)
-######[Exercises](www.github.com/bgando/functionalJS)
+######[Presentation Slides](http://www.slides.com/biancagandolfo/intro-func)
+######[Presentation Videos](http://www.frontendmasteres.com/courses) (available January 2015)
+######[Exercises](http://www.github.com/bgando/functionalJS)
+######[Notes](https://docs.google.com/document/d/1-zH4ocVczSi28fX4HVWTooAOFTqQifo4X-vS-DU1nyY/edit?usp=sharing)
+
 ######Follow-up Resources:
 [Scope + Closure](http://speakingjs.com/es5/ch16.html)
 
@@ -56,7 +60,8 @@ Wednesday: Class Patterns: Functional, Prototypal, Pseudoclassical
 Thursday: Superclass + Subclass
 ###Links
 ######[Udacity Videos](https://www.udacity.com/course/ud015)
-######[eFarmony Class Patterns](http://www.github.com/bgando/efarmony-class-patterns)
+######[Exercises](http://www.github.com/bgando/efarmony-class-patterns)
+######[Notes](https://docs.google.com/document/d/1PtNoNH1OmhW1DsNDyJBtuIGzmgky_tb04HOK_FLPw5s/edit?usp=sharing)
 ######Follow-up Resources:
 [Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
 
@@ -77,8 +82,8 @@ Thursday: Grunt + Tools
 <!--###Links
 Events
 #####DOM LINKS
-######[DOM Slides](www.teaching-materials.org/js200/)
-######[DOM Project](www.github.com/bgando/efarmony-dom)
+######[DOM Slides](http://www.teaching-materials.org/js200/)
+######[DOM Project](http://www.github.com/bgando/efarmony-dom)
 
 #####DEV TOOLBELT LINKS
 ######[FE Masters Videos (David Mosher)](https://frontendmasters.com/courses/workflows-and-tooling/)
