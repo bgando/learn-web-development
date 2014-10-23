@@ -40,14 +40,14 @@ Thursday: [ADVANCED] Closures + Module Pattern
 	  [BEGINNER] Codecademy JS or HTML/CSS
 
 
-<!--###Links-->
-<!--######[Presentation Slides](http://www.slides.com/biancagandolfo/intro-func)-->
-<!--######[Presentation Videos](http://www.frontendmasteres.com/courses) (available January 2015)-->
-<!--######[Exercises](http://www.github.com/bgando/functionalJS)-->
-<!--######[Notes](https://docs.google.com/document/d/1-zH4ocVczSi28fX4HVWTooAOFTqQifo4X-vS-DU1nyY/edit?usp=sharing)-->
+###Links
+######[Presentation Slides](http://www.slides.com/biancagandolfo/intro-func)
+######[Presentation Videos](http://www.frontendmasteres.com/courses) (available January 2015)
+######[Exercises](http://www.github.com/bgando/functionalJS)
+######[Notes](https://docs.google.com/document/d/1-zH4ocVczSi28fX4HVWTooAOFTqQifo4X-vS-DU1nyY/edit?usp=sharing)
 
-<!--######Follow-up Resources:-->
-<!--[Scope + Closure](http://speakingjs.com/es5/ch16.html)-->
+######Follow-up Resources:
+[Scope + Closure](http://speakingjs.com/es5/ch16.html)
 
 <!--#############################################################################################################-->
 
