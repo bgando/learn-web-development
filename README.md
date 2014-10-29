@@ -41,7 +41,7 @@ Thursday: [ADVANCED] Closures + Module Pattern
 
 
 ###Links
-######[Presentation Slides](http://www.slides.com/biancagandolfo/intro-func)
+######[Presentation Slides](http://www.slides.com/biancagandolfo/intro-to-func)
 ######[Presentation Videos](http://www.frontendmasteres.com/courses) (available January 2015)
 ######[Exercises](http://www.github.com/bgando/functionalJS)
 ######[Notes](https://docs.google.com/document/d/1-zH4ocVczSi28fX4HVWTooAOFTqQifo4X-vS-DU1nyY/edit?usp=sharing)
