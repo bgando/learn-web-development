@@ -64,14 +64,14 @@ Wednesday: Class Patterns: Functional, Prototypal, Pseudoclassical
 
 Thursday: Superclass + Subclass
 
-<!--###Links-->
-<!--######[Udacity Videos](https://www.udacity.com/course/ud015)-->
-<!--######[Exercises](http://www.github.com/bgando/efarmony-class-patterns)-->
-<!--######[Notes](https://docs.google.com/document/d/1PtNoNH1OmhW1DsNDyJBtuIGzmgky_tb04HOK_FLPw5s/edit?usp=sharing)-->
-<!--######Follow-up Resources:-->
-<!--[Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)-->
+###Links
+######[Udacity Videos](https://www.udacity.com/course/ud015)
+######[Exercises](http://www.github.com/bgando/efarmony-class-patterns)
+######[Notes](https://docs.google.com/document/d/1PtNoNH1OmhW1DsNDyJBtuIGzmgky_tb04HOK_FLPw5s/edit?usp=sharing)
+######Follow-up Resources:
+[Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
 
-<!--[Keyword this](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)-->
+[Keyword this](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 
 <!--#############################################################################################################-->
 
