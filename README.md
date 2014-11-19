@@ -100,18 +100,19 @@ Events
 
 ##[Week 5 - Angular JS (Nov 17th)](id:wk5) 
 ###Topics
-Monday
+Wednesday: Angular overview
 
-Tuesday
+Thursday: Getting started with an Angular project
 
-Wednesday
+Friday: Angular overview cont.
 
-Thursday
+Next time: Angular do's and don'ts
 
-<!--###Links
-######Presentation
+###Links
+######[AngularJS in 60min slides](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf)
+######[AngularJS Do's and Don'ts slides](http://slides.com/scott-moss/how-to-angular#/)
 ######Project
-######Follow-up Resources-->
+######Follow-up Resources
 
 <!--#############################################################################################################-->
 ##[Week 6 - TDD + Ionic (Nov 24th](id:wk6) 
